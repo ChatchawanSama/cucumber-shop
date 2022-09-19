@@ -24,4 +24,5 @@ public class Order {
             total += item.getSubtotal();
         return total;
     }
+
 }
